@@ -4,4 +4,6 @@ This repo is used to publish legacy version (v6) of logseq anki sync plugin. The
 
 This branch exists solely to support users affected by the breaking changes introduced in v7.
 
-Please consider using the https://github.com/debanjandhar12/logseq-anki-sync (v7+) which supports both database-backed graphs and file-based graphs.
+Please consider using the non-legacy version which supports both database-backed graphs and file-based graphs.
+
+> Code for this legacy version is maintained in https://github.com/debanjandhar12/logseq-anki-sync/tree/legacy.
